@@ -1,4 +1,4 @@
-![WPPOOL Dashboard Preview](/dashboard-preview.png)
+![WPPOOL Dashboard Preview](/firsr.png)
 
 
 # WPPOOL Analytics Dashboard
